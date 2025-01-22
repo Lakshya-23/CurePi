@@ -76,27 +76,3 @@ Once registered, users can sign in using the provided email address and password
 ---
 
 <br>
-
-### Prerequisites
-
-This App uses NodeJS backend server for its functionality. First of all, setup the local server using the steps provided in the [medcare-server repo](https://github.com/SandeepKrSuman/medcare-server).
-
-### Installation
-
-- Step 1: Fork [this repo](https://github.com/SandeepKrSuman/medcare).
-- Step 2: Clone your forked version of this repo locally. To clone, go to your command line / terminal, cd over to an appropriate directory and type in `git clone https://github.com/<your GitHub username>/medcare.git`.
-- Step 3: `cd medcare`
-- Step 4: While in the `medcare` directory, install the frontend dependencies using `npm install`.
-- Step 5: Finally start the react app using `npm start`. The app will start on port `3000` which can be accessed through <http://localhost:3000/>.
-
----
-
-<br> <br>
-
-<p align='center'>If you like this project do show some love by giving this repo a 🌟.</p>
-  
-<br>
-
-### License
-
-[MIT](LICENSE) © [SandeepKrSuman](https://github.com/SandeepKrSuman)
